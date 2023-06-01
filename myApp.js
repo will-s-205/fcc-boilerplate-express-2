@@ -6,7 +6,7 @@ let bodyParser = require('body-parser');
 
 ///////////////////////////////////////////////////
 
-// 12 Get Data from POST Requests // NOT WORKING
+// 12 Get Data from POST Requests // NOT WORKING // Use GET and add body-parser from ex. 11
 // app.post("/name", function(req, res) {
 //   // Handle the data in the request
 //   var string = req.body.first + " " + req.body.last;
